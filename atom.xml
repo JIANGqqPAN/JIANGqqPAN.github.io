@@ -6,7 +6,7 @@
   <link href="https://jiangqqpan.github.io/atom.xml" rel="self"/>
   
   <link href="https://jiangqqpan.github.io/"/>
-  <updated>2022-08-25T07:02:33.636Z</updated>
+  <updated>2022-08-25T07:55:53.719Z</updated>
   <id>https://jiangqqpan.github.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>收藏的小文章</title>
-    <link href="https://jiangqqpan.github.io/2022/08/24/%E6%94%B6%E8%97%8F%E7%9A%84%E5%B0%8F%E6%96%87%E7%AB%A0/"/>
-    <id>https://jiangqqpan.github.io/2022/08/24/%E6%94%B6%E8%97%8F%E7%9A%84%E5%B0%8F%E6%96%87%E7%AB%A0/</id>
+    <title>小收藏</title>
+    <link href="https://jiangqqpan.github.io/2022/08/24/%E5%B0%8F%E6%94%B6%E8%97%8F/"/>
+    <id>https://jiangqqpan.github.io/2022/08/24/%E5%B0%8F%E6%94%B6%E8%97%8F/</id>
     <published>2022-08-24T09:04:12.000Z</published>
-    <updated>2022-08-25T07:02:33.636Z</updated>
+    <updated>2022-08-25T07:55:53.719Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="vscode-好用的一些小插件"><a href="#vscode-好用的一些小插件" class="headerlink" title="vscode 好用的一些小插件"></a><a href="https://blog.csdn.net/To_be_a_fisher/article/details/125681106">vscode 好用的一些小插件</a></h2>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="vscode-好用的一些小插件"><a href="#vscode-好用的一些小插件" class="headerlink" title="vscode 好用的一些小插件"></a><a href="https://blog.csdn.net/To_be_a_fisher/article/details/125681106">vscode 好用的一些小插件</a></h2><hr><h2 id="一个不错的免费图床"><a href="#一个不错的免费图床" class="headerlink" title="一个不错的免费图床"></a>一个不错的免费图床</h2><p> <a href="https://www.superbed.cn/"><strong>聚合图床</strong></a></p><hr><h2 id="微软恢复工具MediaCreationTool使用方法"><a href="#微软恢复工具MediaCreationTool使用方法" class="headerlink" title="微软恢复工具MediaCreationTool使用方法"></a><a href="https://jiangqqpan.github.io/file/%E5%BE%AE%E8%BD%AF%E6%81%A2%E5%A4%8D%E5%B7%A5%E5%85%B7MediaCreationTool%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.pdf">微软恢复工具MediaCreationTool使用方法</a></h2><hr>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;vscode-好用的一些小插件&quot;&gt;&lt;a href=&quot;#vscode-好用的一些小插件&quot; class=&quot;headerlink&quot; title=&quot;vscode 好用的一些小插件&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://blog.csdn.net/To_be_a_fi</summary>
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;vscode-好用的一些小插件&quot;&gt;&lt;a href=&quot;#vscode-好用的一些小插件&quot; class=&quot;headerlink&quot; title=&quot;vscode 好用的一些小插件&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://blog.csdn.net/To_be</summary>
       
     
     
@@ -61,9 +62,9 @@
     <link href="https://jiangqqpan.github.io/2022/07/23/HEXO%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
     <id>https://jiangqqpan.github.io/2022/07/23/HEXO%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
     <published>2022-07-23T07:59:44.000Z</published>
-    <updated>2022-08-25T07:08:01.083Z</updated>
+    <updated>2022-08-25T07:43:30.883Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="HEXO搭建详细教程"><a href="#HEXO搭建详细教程" class="headerlink" title="HEXO搭建详细教程"></a><a href="https://jiangqqpan.github.io/file/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.pdf">HEXO搭建详细教程</a></h2><hr><hr><h2 id="HEXO优化教程"><a href="#HEXO优化教程" class="headerlink" title="HEXO优化教程"></a><a href="https://tzy1997.com/articles/hexo1606/">HEXO优化教程</a></h2><hr>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="HEXO搭建详细教程"><a href="#HEXO搭建详细教程" class="headerlink" title="HEXO搭建详细教程"></a><a href="https://jiangqqpan.github.io/file/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.pdf">HEXO搭建详细教程</a></h2><hr><hr><hr><h2 id="hexo-上传PDF文件方法"><a href="#hexo-上传PDF文件方法" class="headerlink" title="hexo 上传PDF文件方法"></a>hexo 上传PDF文件方法</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">示例中的https://jiangqqpan.github.io/file/代表自己的上传github的PDF文件的根地址</span><br><span class="line">[HEXO搭建详细教程](https://jiangqqpan.github.io/file/博客搭建详细教程.pdf)</span><br></pre></td></tr></table></figure><hr><h2 id="HEXO美化教程"><a href="#HEXO美化教程" class="headerlink" title="HEXO美化教程"></a><a href="https://tzy1997.com/articles/hexo1606/">HEXO美化教程</a></h2><hr>]]></content>
     
     
       
@@ -105,9 +106,9 @@
     <link href="https://jiangqqpan.github.io/2022/07/19/Stm32%E5%B0%8F%E7%9F%A5%E8%AF%86/"/>
     <id>https://jiangqqpan.github.io/2022/07/19/Stm32%E5%B0%8F%E7%9F%A5%E8%AF%86/</id>
     <published>2022-07-19T13:45:18.000Z</published>
-    <updated>2022-08-25T07:08:52.758Z</updated>
+    <updated>2022-08-25T07:40:43.043Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="STM32-keil下载程序后不自动运行程序-必须复位（或重新上电）一下才可以运行"><a href="#STM32-keil下载程序后不自动运行程序-必须复位（或重新上电）一下才可以运行" class="headerlink" title="STM32 keil下载程序后不自动运行程序,必须复位（或重新上电）一下才可以运行"></a><a href="https://blog.csdn.net/jiekaile/article/details/120779350">STM32 keil下载程序后不自动运行程序,必须复位（或重新上电）一下才可以运行</a></h2><hr><h2 id="keil-L6200E-Symbol-XXX-multiply-defined-O…错误解决方法"><a href="#keil-L6200E-Symbol-XXX-multiply-defined-O…错误解决方法" class="headerlink" title="[keil]L6200E: Symbol XXX multiply defined .O…错误解决方法"></a><a href="https://blog.csdn.net/MoreXD/article/details/121979087">[keil]L6200E: Symbol XXX multiply defined .O…错误解决方法</a></h2><hr><h2 id="HAL库移植7脚SPI-OLED"><a href="#HAL库移植7脚SPI-OLED" class="headerlink" title="HAL库移植7脚SPI OLED"></a><a href="https://blog.csdn.net/qq_45822269/article/details/116787925">HAL库移植7脚SPI OLED</a></h2><hr><h2 id="HAL库-CubeMX–OLED显示小数和不同数据类型的变量值的显示"><a href="#HAL库-CubeMX–OLED显示小数和不同数据类型的变量值的显示" class="headerlink" title="HAL库 CubeMX–OLED显示小数和不同数据类型的变量值的显示"></a><a href="https://blog.csdn.net/m0_51429690/article/details/119778340">HAL库 CubeMX–OLED显示小数和不同数据类型的变量值的显示</a></h2><hr><p><a href="https://blog.csdn.net/m0_61213696/article/details/123227712">枚举类型简介</a><br><img src="/images/%E6%9E%9A%E4%B8%BE.png"><br><img src="/images/DAC1.png"></p><hr>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="STM32-keil下载程序后不自动运行程序-必须复位（或重新上电）一下才可以运行"><a href="#STM32-keil下载程序后不自动运行程序-必须复位（或重新上电）一下才可以运行" class="headerlink" title="STM32 keil下载程序后不自动运行程序,必须复位（或重新上电）一下才可以运行"></a><a href="https://blog.csdn.net/jiekaile/article/details/120779350">STM32 keil下载程序后不自动运行程序,必须复位（或重新上电）一下才可以运行</a></h2><hr><h2 id="keil-L6200E-Symbol-XXX-multiply-defined-O…错误解决方法"><a href="#keil-L6200E-Symbol-XXX-multiply-defined-O…错误解决方法" class="headerlink" title="[keil]L6200E: Symbol XXX multiply defined .O…错误解决方法"></a><a href="https://blog.csdn.net/MoreXD/article/details/121979087">[keil]L6200E: Symbol XXX multiply defined .O…错误解决方法</a></h2><hr><h2 id="HAL库移植7脚SPI-OLED"><a href="#HAL库移植7脚SPI-OLED" class="headerlink" title="HAL库移植7脚SPI OLED"></a><a href="https://blog.csdn.net/qq_45822269/article/details/116787925">HAL库移植7脚SPI OLED</a></h2><hr><h2 id="HAL库-CubeMX–OLED显示小数和不同数据类型的变量值的显示"><a href="#HAL库-CubeMX–OLED显示小数和不同数据类型的变量值的显示" class="headerlink" title="HAL库 CubeMX–OLED显示小数和不同数据类型的变量值的显示"></a><a href="https://blog.csdn.net/m0_51429690/article/details/119778340">HAL库 CubeMX–OLED显示小数和不同数据类型的变量值的显示</a></h2><hr><h2 id="STM32CubeMX-ESP8266-AT指令实现MQTT协议并接入阿里云IOT平台"><a href="#STM32CubeMX-ESP8266-AT指令实现MQTT协议并接入阿里云IOT平台" class="headerlink" title="STM32CubeMX ESP8266 AT指令实现MQTT协议并接入阿里云IOT平台"></a><a href="https://blog.csdn.net/u014779536/article/details/106355346">STM32CubeMX ESP8266 AT指令实现MQTT协议并接入阿里云IOT平台</a></h2><hr><p><a href="https://blog.csdn.net/m0_61213696/article/details/123227712">枚举类型简介</a><br><img src="/images/%E6%9E%9A%E4%B8%BE.png"><br><img src="/images/DAC1.png"></p><hr>]]></content>
     
     
       
