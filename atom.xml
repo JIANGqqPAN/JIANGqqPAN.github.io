@@ -6,7 +6,7 @@
   <link href="https://jiangqqpan.github.io/atom.xml" rel="self"/>
   
   <link href="https://jiangqqpan.github.io/"/>
-  <updated>2023-08-29T10:30:18.891Z</updated>
+  <updated>2023-08-29T10:39:48.333Z</updated>
   <id>https://jiangqqpan.github.io/</id>
   
   <author>
@@ -21,8 +21,15 @@
     <link href="https://jiangqqpan.github.io/2023/08/29/Linux/"/>
     <id>https://jiangqqpan.github.io/2023/08/29/Linux/</id>
     <published>2023-08-29T10:30:18.000Z</published>
-    <updated>2023-08-29T10:30:18.891Z</updated>
+    <updated>2023-08-29T10:39:48.333Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="ubuntu20-04网络问号"><a href="#ubuntu20-04网络问号" class="headerlink" title="ubuntu20.04网络问号"></a>ubuntu20.04网络问号</h1><p><a href="https://blog.csdn.net/qq_29391659/article/details/128471637">https://blog.csdn.net/qq_29391659/article/details/128471637</a></p><p>终端输入命令 配置静态地址</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo dhclient -v</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;ubuntu20-04网络问号&quot;&gt;&lt;a href=&quot;#ubuntu20-04网络问号&quot; class=&quot;headerlink&quot; title=&quot;ubuntu20.04网络问号&quot;&gt;&lt;/a&gt;ubuntu20.04网络问号&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://b</summary>
+      
     
     
     
