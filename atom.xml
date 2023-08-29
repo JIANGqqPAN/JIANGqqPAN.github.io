@@ -6,7 +6,7 @@
   <link href="https://jiangqqpan.github.io/atom.xml" rel="self"/>
   
   <link href="https://jiangqqpan.github.io/"/>
-  <updated>2023-08-14T13:10:06.536Z</updated>
+  <updated>2023-08-29T10:30:18.891Z</updated>
   <id>https://jiangqqpan.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux</title>
+    <link href="https://jiangqqpan.github.io/2023/08/29/Linux/"/>
+    <id>https://jiangqqpan.github.io/2023/08/29/Linux/</id>
+    <published>2023-08-29T10:30:18.000Z</published>
+    <updated>2023-08-29T10:30:18.891Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
